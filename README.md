@@ -1,8 +1,9 @@
+
+<img src="https://img.shields.io/circleci/project/huixisheng/x-ci/master.svg" alt="Build Status">
+<img src="https://api.travis-ci.org/huixisheng/x-ci.svg?branch=master">
+
 # x-ci
 持续集成资源整理
-
-
-
 
 
 
